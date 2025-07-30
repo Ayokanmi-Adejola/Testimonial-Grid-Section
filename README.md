@@ -12,7 +12,7 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Screenshot
+
 
 ![Design preview for the Testimonials grid section coding challenge](./preview.jpg)
 
