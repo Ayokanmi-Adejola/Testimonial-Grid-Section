@@ -99,7 +99,3 @@ Areas I want to continue focusing on in future projects:
 - [MDN CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) - Official documentation
 - [Google Fonts](https://fonts.google.com/) - For the Barlow Semi Condensed font
 - [Can I Use](https://caniuse.com/) - For checking browser compatibility
-
-## Author
-
-- Frontend Mentor - [@Ayokanmi-Adejola](https://www.frontendmentor.io/profile/Ayokanmi-Adejola)
